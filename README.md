@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/Bhaskarsahu23/3-column-preview-card-component-main](https://your-solution-url.com)
--   Live Site URL: [https://3-column-card-components.netlify.app/](https://your-live-site-url.com)
+-   Solution URL: [https://github.com/Bhaskarsahu23/3-column-preview-card-component-main](https://github.com/Bhaskarsahu23/3-column-preview-card-component-main)
+-   Live Site URL: [https://3-column-card-components.netlify.app/](https://3-column-card-components.netlify.app/)
 
 ### Built with
 
